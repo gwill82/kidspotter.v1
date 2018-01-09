@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context="com.example.gwill.kidspotter.RegisterActivity">
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="ENREGISTRER"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="16dp" />
 </android.support.constraint.ConstraintLayout>
