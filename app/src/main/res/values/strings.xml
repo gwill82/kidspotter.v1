@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kidspotter</string>
+    <string name="action_settings">Settings</string>
+    <string name="bienvenue">Bienvenue sur kidspotter v1</string>
+    <string name="boutonSet">Afficher</string>
+    <string name="boutonFind">Chercher</string>
+    <string name="boutonRegister">Enregistrer</string>
+    <string name="todo">TODO</string>
+</resources>
